@@ -1,1 +1,1 @@
-[Download](https://raw.githubusercontent.com/backslashxx/bad-apple-ascii/refs/heads/simple_resetprop/module.zip)
+[Download](https://raw.githubusercontent.com/TheWildJames/simple_resetprops/refs/heads/main/module.zip)
